@@ -12,3 +12,4 @@ i'm not an expert at both scraping and neural network, mainly neural network. if
 finished, but it feels like it can be better. maybe i'll work on it again if i get help or deeper knowledge on the field of neural networks. any help is welcome, but please bear my lack of understandings in some parts related to artificial intelligence and let me do the coding as you guide me.
 
 there's a result called "comparison.png" in the rnn folder. in case you want a quick look at the performance. i'll place it in readme.md later.
+~~oh, i forgot to download the weights. oops.~~
